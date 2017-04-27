@@ -1,0 +1,1 @@
+This bit of code currently prints a message to the console, then waits until a key is pressed.  Once that key is pressed, it is echoed to the console, and then the program ends.  The code was inspired from http://ancientbits.blogspot.com/2012/07/programming-barebones-pdp11.html
